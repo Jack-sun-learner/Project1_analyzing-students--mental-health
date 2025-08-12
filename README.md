@@ -1,5 +1,5 @@
 # Project1_analyzing-students--mental-health
-### This project comes from DataCamp real world project exploring students' mental health by the identity of student(domestic or international) and the length of stay in Japan.
+### This project comes from DataCamp real world project exploring students' mental health.
 
 Links: https://projects.datacamp.com/projects/1593
 
